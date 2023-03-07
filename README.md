@@ -6,3 +6,21 @@ Going on the internet and searching up questions can be difficult sometimes as t
 With Pair'Em, you can have access to free, personalized information within minutes, no appointments or scheduling nessecary.
 Currently, this project is just a prototype, and my team and I are looking to implement a real chat feature, a profile to display resumes and other creditals.
 I learned a lot in this project, frontend and backend included!
+
+Here is the Home Page
+
+
+Here is the Login Page
+
+
+Here is the Sign up Page
+
+
+Here is the Profile Page
+
+
+Here is the Edit Profile Page
+https://github.com/meaganvu/Pair-Em/blob/main/Edit%20Profile%20Image.png
+
+Here is the Chat Window Page
+https://github.com/meaganvu/Pair-Em/blob/d257b83fe218d6d9f79050621e28407889c278c6/Chat%20Window%20Image.png
