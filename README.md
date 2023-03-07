@@ -8,16 +8,16 @@ Currently, this project is just a prototype, and my team and I are looking to im
 I learned a lot in this project, frontend and backend included!
 
 Here is the Home Page
-
+https://github.com/meaganvu/Pair-Em/blob/main/Home%20Page%20Image.png
 
 Here is the Login Page
-
+https://github.com/meaganvu/Pair-Em/blob/main/Login%20Image.png
 
 Here is the Sign up Page
-
+https://github.com/meaganvu/Pair-Em/blob/main/Sign%20Up%20Image.png
 
 Here is the Profile Page
-
+https://github.com/meaganvu/Pair-Em/blob/main/Profile%20Image.png
 
 Here is the Edit Profile Page
 https://github.com/meaganvu/Pair-Em/blob/main/Edit%20Profile%20Image.png
